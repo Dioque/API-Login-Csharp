@@ -474,9 +474,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/..csproj",
-      "projectName": ".",
-      "projectPath": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/..csproj",
+      "projectUniqueName": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/API-Login-Csharp.csproj",
+      "projectName": "API-Login-Csharp",
+      "projectPath": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/API-Login-Csharp.csproj",
       "packagesPath": "/home/samuel/.nuget/packages/",
       "outputPath": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/obj/",
       "projectStyle": "PackageReference",

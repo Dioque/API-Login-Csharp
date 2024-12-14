@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YrkTi9PeTVzQr3nEXTmEOncqM/zJ87JYR+SS6ZiwTpX+N6QvR5Xf+T1KKXBefk4++ii+176YM9y8RDEVp8KPSA==",
+  "dgSpecHash": "QjScpdNSzDIwN2vb6D2cPth8gG9BCwMSUzfzp+KYGVoWR7cQZ+S3E9zYdffWJKgGfG3i5iE2kRCYnDcQwkf6OQ==",
   "success": true,
-  "projectFilePath": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/..csproj",
+  "projectFilePath": "/home/samuel/Desenvolvimentos/ProjetosPessoais/API-Login-Csharp/API-Login-Csharp.csproj",
   "expectedPackageFiles": [
     "/home/samuel/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
     "/home/samuel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
